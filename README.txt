@@ -7,6 +7,7 @@ Installation and Setup
 Install ``kickbaer-server`` using the setup.py script::
 
     $ cd kickbaer-server
+    $ pip install tgext.admin
     $ python setup.py develop
 
 Create the project database for any model classes defined::
