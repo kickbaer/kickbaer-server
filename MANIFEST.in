@@ -1,0 +1,4 @@
+recursive-include kickbaer/public *
+include kickbaer/public/favicon.ico
+recursive-include kickbaer/i18n *
+recursive-include kickbaer/templates *
